@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Petrean_Beatrice_Lab8Context"
+    }
+  }
+}
